@@ -1,2 +1,2 @@
-# CKD-pred-Thesisi
+# CKD-pred-Thesis
 Ckd pred with majority voting
